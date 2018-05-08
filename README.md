@@ -10,6 +10,9 @@ Install this GUI by downloading the most current repository. Once you unzip the 
 ### Usage
 Once the program is installed, Use AQS to generate an AMP500 and AMP501 for your network/time period of interest. The AMP500 contains information pertaining to every monitor in the network queried, while the AMP501 contains the raw data from the monitors queried. Examples of the AMP500 and AMP501 have been provided in the "test_data" folder of the repository.
 
+#### Test Data
+There is a folder of test data provided in the repository. A file AMP500 and on quarter of the State of Utah's 2018 data provided.
+
 #### Creating a Site File
 The Site config file is used to configure which monitors will be analyzed. You must have one in order to run the gap analysis. You do not have to create a new site file every time the gap analysis is run, however.
 
