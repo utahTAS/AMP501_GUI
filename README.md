@@ -32,5 +32,3 @@ Credit to State of Utah Division of Air Quality, and Lexie Wilson and Kim Kreyke
 
 ### License
 No current license available
-
-
