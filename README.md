@@ -17,7 +17,7 @@ There is a folder of test data provided in the repository. An AMP500 and an AMP5
 The Site config file is used to configure which monitors will be analyzed. You must have one in order to run the gap analysis. You do not have to create a new site file every time the gap analysis is run, however.
 
 * Click "Menu", then in the drop-down, click "Create Site File". This will open a new window with all the input parameters for creating a new site file. Click "Choose AMP500 File" to navigate to the input file, or use the text box below the button to type the path by hand.
-* In "Time Interval", choose what time period you would like to use monitors from. Enter the text for the start date in the white text box under "Choose Start Date". Note that the date format is the same used for querying data in AQS. Likewise, you can enter the end date in the next white text box below in the same date format.
+* In "Time Interval", choose what time period you would like to use monitors from. Enter the text for the start date in the white text box under "Choose Start Date". Note that the date format is the same used for querying data in AQS. Likewise, you can enter the end date in the next white text box below in the same date format. Use a start date of 20180101 and end date of 20180331 for the test setup.
 * In the Output section, click the "Choose Output Filename" button to choose what to name the new site config file, or use the text box below the button to type the path by hand.
 * Click "Create Site Config File" to produce the new site config file! Once your site config file is created, exit out of the "Create New Site Config File" window frame.
 
